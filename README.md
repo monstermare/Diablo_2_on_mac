@@ -1,14 +1,14 @@
 # How to run the latest version of Diablo 2 on OSX (High Sierra or higher version)
 This is a quick tutorial for those who wants to play Diablo 2 on OSX.
-I was surprised that Diablo 2 supports OSX version, but like other blizzard classic games (starcraft 1 did not work for newer version of OSX until they launch remastered version), Diablo 2 isn't working properly if you have newer version of OSX like High Sierra or Mojave (I am not sure the exact version of OSX gets this issue).
-So there are technically two main issues that I experienced, and I hope this can help u enjoy Diablo 2 on your mac.
+I was surprised that Diablo 2 supports OSX version, but like other blizzard classic games (starcraft 1 did not work for newer version of OSX until they launch remastered version), Diablo 2 isn't working properly if you have newer version of OSX like High Sierra or Mojave (I'm not sure the exact version of OSX gets this issue).
+So there are technically two main issues that I experienced, and I hope this can help you enjoy Diablo 2 on your mac.
 
-## Lord of Destruction (Expansion) cannot be installed after installing original Diablo 2
+## Lord of Destruction (Expansion) can't be installed after installing original Diablo 2
 In my case, this happens when I updated original Diablo 2 to the latest version.
 If you have this issue, uninstall Diablo 2 first.
 Once you uninstall Diablo 2, reinstall Diablo 2 original first, then install LoD without having any updates.
 
-## Diablo 2 LoD is not running
+## Diablo 2 LoD isn't running
 This is the issue if you attempt to play LoD with newer version of OSX. I think this is a type of permission issue that program doesn't grant permission properly, but not 100% sure what is the core issue.
 To get rid of this trouble, you have to manually run the Diablo 2 application via Terminal with superuser.
 
