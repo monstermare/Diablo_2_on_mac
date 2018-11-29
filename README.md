@@ -36,4 +36,4 @@ do shell script "/Applications/Diablo\\ II/Diablo\\ II.app/Contents/MacOS/Diablo
 and replace "yourname" and "yourPasswd" with your account name and password 
 
 I also added the first method for those who are not familiar with apple script
-[download script](Diablo\ 2\ LoD\ Launcher.app)
+[download zip](https://github.com/monstermare/Diablo_2_on_mac/blob/master/launcher.zip)
